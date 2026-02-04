@@ -57,16 +57,16 @@ UX/UI: Implement pagination for the task list and use "Optimistic UI" updates fo
 ### 6. Project Structure
 taskmanager/
 ├── backend/
-│   ├── middlewares/ 
-│   ├── models/     
-│   ├── routes/     
-│   └── server.js  
+    ├── middlewares/ 
+    ├── models/     
+    ├── routes/     
+    └── server.js  
 └── frontend/
     ├── src/
-    │   ├── components/
-    │   ├── context/    
-    │   ├── pages/     
-    │   └── App.jsx  
+        ├── components/
+        ├── context/    
+        ├── pages/     
+        └── App.jsx  
 
 ### 7. postman file
 [taskmanagerr.postman_collection.json](https://github.com/user-attachments/files/25072630/taskmanagerr.postman_collection.json)
