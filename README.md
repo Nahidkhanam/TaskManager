@@ -55,18 +55,22 @@ Caching: Integrate Redis caching for the /api/v1/me profile endpoint to reduce d
 UX/UI: Implement pagination for the task list and use "Optimistic UI" updates for a zero-latency user experience.
 
 ### 6. Project Structure
-taskmanager/
-├── backend/
-    ├── middlewares/ 
-    ├── models/     
-    ├── routes/     
-    └── server.js  
-└── frontend/
-    ├── src/
-        ├── components/
-        ├── context/    
-        ├── pages/     
-        └── App.jsx  
 
+```
+taskmanager/
+├── backend/               
+│   ├── middleware/        
+│   ├── models/             
+│   ├── routes/             
+│   └── server.js          
+│
+├── frontend/              
+│   ├── src/
+│   │   ├── components/     
+│   │   ├── context/        
+│   │   ├── pages/         
+│   │   └── App.jsx         
+│   └── main.jsx            
+```
 ### 7. postman file
 [taskmanagerr.postman_collection.json](https://github.com/user-attachments/files/25072630/taskmanagerr.postman_collection.json)
