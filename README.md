@@ -1,6 +1,6 @@
-# MERN TaskMaster 🚀
+# MERN TaskManager
 
-A full-stack Task Management application featuring secure authentication, a personalized dashboard, and real-time CRUD operations. Built as a demonstration of modern web engineering principles.
+A full-stack Task Management application featuring secure authentication, a personalized dashboard, and real-time CRUD operations.
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js (Vite), Tailwind CSS, Lucide React (Icons), Axios
